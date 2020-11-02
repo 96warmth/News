@@ -1,0 +1,58 @@
+/* pages/main/main.wxss */
+.top{
+  height:35px;
+  background-color: rgb(236, 49, 49);
+  color: white;
+  font-size: 18px;
+}
+.subtop{
+  height:30px;
+  display: flex;
+  padding:10px;
+  line-height: 16px;
+}
+.topleft{
+  border: black 1px solid;
+  display: flex;
+}
+.icon{
+  border-left: white 4px solid ;
+  border-bottom: white 4px solid ;
+  transform:rotate(45deg);
+  width:10px;
+  height:10px;
+  margin-right: 5px;
+}
+
+.bottom{
+  border-bottom: rgb(224, 221, 221) 1px solid;
+  padding:15px;
+  display: flex;
+}
+.news{
+  height:60px;
+  width:65%;
+  margin-right: 10px;
+}
+.photo{
+  height:60px;
+  width:35%;
+}
+.news-img{
+  width: 100%;
+  height: 100%;
+}
+.tittle{
+  font-size: 15px;
+  height:37px;
+}
+.source{
+  margin-top:12px; 
+  height:15px;
+  display: flex;
+}
+.sor{
+  font-size: 10px;
+  color:rgb(177, 174, 174);
+  padding-right: 20px;
+}

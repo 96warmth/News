@@ -1,0 +1,17 @@
+<view class="top">
+  <view class="self">
+      <view class="myphoto">
+        <image class="myphoto" src="https://pics5.baidu.com/feed/023b5bb5c9ea15ce2743a15ce30344f43b87b2c4.jpeg?token=41081bb6fbaad177f8b2988488dc6d2f&amp;s=E123B05446FFBDED0FBA85810300F08B"></image>
+      </view>
+      <view class="name">
+        {{item.username}}
+      </view>
+  </view>
+</view>
+<view class="text">
+    <a>我的收藏</a>
+</view>
+
+<view class="btn">
+  <button bindtap="requ"> 退出</button>
+</view>

@@ -1,0 +1,16 @@
+input{
+  border: rgb(240, 99, 99) 1px solid;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  width: 90%;
+  height: 30px;
+  border-radius: 5px;
+}
+button{
+  background-color: rgb(238, 106, 106);
+  color: white;
+}
+.input-placeholder{
+  padding-left:5px;
+  color:rgb(217, 204, 204);
+}

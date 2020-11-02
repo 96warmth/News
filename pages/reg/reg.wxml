@@ -1,0 +1,15 @@
+<view>
+  <input type="text" placeholder="用户名"></input>
+  <input type="password" placeholder="密码"></input>
+  <input type="password" placeholder="重复密码"></input>
+</view>
+<view class="photo">
+  <view>头像</view>
+  <view class="upload">+</view>
+</view>
+<view class="btn">
+  <button>注册</button>
+</view>
+<view>
+  <navigator url="/pages/index/index">登录</navigator>
+</view>

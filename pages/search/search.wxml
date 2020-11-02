@@ -1,0 +1,74 @@
+<!--pages/main/main.wxml-->
+<view class="top">
+  <view class="subtop">
+      <view class="icon"></view>
+      <view>返 回</view>
+  </view>
+</view>
+<view class="text">
+  <view class="subtop">
+    <input class="input" auto-focus placeholder="特朗普"/>
+    <view class="search"></view>
+    <view class="search2"></view>
+  </view>
+</view>
+<view class="bottom">
+  <view class="news">
+      <view class="tittle">新疆喀什地区新增无症状感染者26例 均在疏附县</view>
+      <view class="source">
+          <view class="sor from">凤凰网-科技</view>
+          <view class="sor time">今天20:35</view>
+      </view>
+  </view>
+  <view class="photo">
+    <image class="news-img" src="https://pics5.baidu.com/feed/023b5bb5c9ea15ce2743a15ce30344f43b87b2c4.jpeg?token=41081bb6fbaad177f8b2988488dc6d2f&amp;s=E123B05446FFBDED0FBA85810300F08B"></image>
+  </view>
+</view>
+<view class="bottom">
+  <view class="news">
+      <view class="tittle">新疆喀什地区新增无症状感染者26例 均在疏附县</view>
+      <view class="source">
+          <view class="sor from">凤凰网-科技</view>
+          <view class="sor time">今天20:35</view>
+      </view>
+  </view>
+  <view class="photo">
+    <image class="news-img" src="https://pics5.baidu.com/feed/023b5bb5c9ea15ce2743a15ce30344f43b87b2c4.jpeg?token=41081bb6fbaad177f8b2988488dc6d2f&amp;s=E123B05446FFBDED0FBA85810300F08B"></image>
+  </view>
+</view>
+<view class="bottom">
+  <view class="news">
+      <view class="tittle">新疆喀什地区新增无症状感染者26例 均在疏附县</view>
+      <view class="source">
+          <view class="sor from">凤凰网-科技</view>
+          <view class="sor time">今天20:35</view>
+      </view>
+  </view>
+  <view class="photo">
+    <image class="news-img" src="https://pics5.baidu.com/feed/023b5bb5c9ea15ce2743a15ce30344f43b87b2c4.jpeg?token=41081bb6fbaad177f8b2988488dc6d2f&amp;s=E123B05446FFBDED0FBA85810300F08B"></image>
+  </view>
+</view>
+<view class="bottom">
+  <view class="news">
+      <view class="tittle">新疆喀什地区新增无症状感染者26例 均在疏附县</view>
+      <view class="source">
+          <view class="sor from">凤凰网-科技</view>
+          <view class="sor time">今天20:35</view>
+      </view>
+  </view>
+  <view class="photo">
+    <image class="news-img" src="https://pics5.baidu.com/feed/023b5bb5c9ea15ce2743a15ce30344f43b87b2c4.jpeg?token=41081bb6fbaad177f8b2988488dc6d2f&amp;s=E123B05446FFBDED0FBA85810300F08B"></image>
+  </view>
+</view>
+<view class="bottom">
+  <view class="news">
+      <view class="tittle">新疆喀什地区</view>
+      <view class="source">
+          <view class="sor from">凤凰网-科技</view>
+          <view class="sor time">今天20:35</view>
+      </view>
+  </view>
+  <view class="photo">
+    <image class="news-img" src="https://pics5.baidu.com/feed/023b5bb5c9ea15ce2743a15ce30344f43b87b2c4.jpeg?token=41081bb6fbaad177f8b2988488dc6d2f&amp;s=E123B05446FFBDED0FBA85810300F08B"></image>
+  </view>
+</view>

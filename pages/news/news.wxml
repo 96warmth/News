@@ -1,0 +1,32 @@
+
+<view class="top">
+  <view class="subtop">
+      <view class="icon"></view>
+      <view>返 回</view>
+  </view>
+</view>
+<view class="content">
+<view class="tittle">新疆喀什地区新增无症状感染者26例 均在疏附县</view>
+
+<view class="source"> 
+  <view class="source">
+          <view class="sor from">来源：凤凰网</view>
+          <view class="sor time">10-27 20:35</view>
+      </view>
+</view>
+<view class="context"> 
+ <view class="p"> “系统提醒，中国拒绝了您的好友请求。”今天（26日），一则“中国空间站将美国拒之门外”的消息在微博传开。</view>
+
+ <view class="p"> 有网友看后调侃称，此举“扬眉吐气”，报了当年“中国申请加入国际空间站被美国拒绝”的仇，让你当初“爱答不理”，现在的我“高攀不起”。</view>
+
+  <view class="p"> 甚至有人在评论区对起了对子，还挺押韵。</view>
+  <view class="img p">
+    <image class="normal"   src="https://pics5.baidu.com/feed/b8014a90f603738d6e3d90f8abacce56f919ec30.jpeg?token=d656a6594da39f7440aa04b13d7a059e" >
+    </image>
+  </view>
+</view>
+
+</view>
+<view class="foot"> 
+<view class="collect">取消收藏</view>
+</view>
